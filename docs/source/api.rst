@@ -1,7 +1,5 @@
-API
-===
+========================
+RST Julian Tomaszewski
+========================
 
-.. autosummary::
-   :toctree: generated
-
-   lumache
+(TOC: .. toctree::)
